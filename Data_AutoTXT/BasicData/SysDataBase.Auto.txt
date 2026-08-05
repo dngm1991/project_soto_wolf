@@ -217,7 +217,7 @@ DEFAULT_VAL_7=0
 100
 0","","",<<!--DATANAME--!>>ダンジョン,
 "MapData/Map004_A.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>,
-"MapData/Map005.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>,
+"MapData/Map005.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外ー村,
 "",-1,-1,0,-2,"","","",<<!--DATANAME--!>>,
 
 <<--CSV_END-->>
