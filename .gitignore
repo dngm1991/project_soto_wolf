@@ -4,8 +4,8 @@
 *_Back/
 
 # 
-*.exe
-*.dll
+#*.exe
+#*.dll
 
 # OS
 .DS_Store
