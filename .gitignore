@@ -1,0 +1,12 @@
+# 
+*.tmp
+*.bak
+*_Back/
+
+# 
+*.exe
+*.dll
+
+# OS
+.DS_Store
+Thumbs.db
