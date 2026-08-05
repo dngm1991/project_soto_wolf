@@ -197,11 +197,11 @@ OPTION_VAL_2=2
 COMMAND_NUM=2
 --
 WoditorEvCOMMAND_START
-[130][6,0]<0>(-1,0,8,5,0,0)()
+[130][6,0]<0>(-1,1,8,5,0,0)()
 [0][0,0]<0>()()
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■場所移動：主人公 ▲マップID5[外　村] X:0 Y:8  [ﾄﾗﾝｼﾞｼｮﾝなし]
+■場所移動：主人公 ▲マップID5[外　村] X:1 Y:8  [ﾄﾗﾝｼﾞｼｮﾝなし]
 ■
 [COMMAND_TEXT_END]
