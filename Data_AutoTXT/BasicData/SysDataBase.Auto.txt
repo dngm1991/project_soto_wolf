@@ -15,7 +15,7 @@ DATATYPE_6=2002
 DATATYPE_7=2003
 NUMDATA_TYPE_NUM=4
 STRDATA_TYPE_NUM=4
-DATA_NUM=8
+DATA_NUM=11
 TYPENAME=マップ設定
 ITEMNAME_NUM=8
 ITEMNAME0=マップファイル名
@@ -220,6 +220,9 @@ DEFAULT_VAL_7=0
 "MapData/Map005.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　村,
 "MapData/Map006.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　ダンジョン　通路,
 "MapData/Map007.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　ダンジョン　最奥,
+"MapData/Map008.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　村　自宅,
+"MapData/Map009.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　村　ばあちゃんち,
+"MapData/Map010.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　村　道具や,
 
 <<--CSV_END-->>
 ----
