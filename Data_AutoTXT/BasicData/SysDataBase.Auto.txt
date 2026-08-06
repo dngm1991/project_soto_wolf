@@ -15,7 +15,7 @@ DATATYPE_6=2002
 DATATYPE_7=2003
 NUMDATA_TYPE_NUM=4
 STRDATA_TYPE_NUM=4
-DATA_NUM=12
+DATA_NUM=13
 TYPENAME=マップ設定
 ITEMNAME_NUM=8
 ITEMNAME0=マップファイル名
@@ -224,6 +224,7 @@ DEFAULT_VAL_7=0
 "MapData/Map009.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　村　ばあちゃんち,
 "MapData/Map010.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　村　道具や,
 "MapData/Map011.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>外　村　家　旦那の嫁,
+"MapData/Map012.mps",-1,-1,0,-1,"","","",<<!--DATANAME--!>>エンディング,
 
 <<--CSV_END-->>
 ----
@@ -1479,7 +1480,7 @@ DEFAULT_VAL_1=0
 DEFAULT_VAL_2=0
 <<--CSV_START-->>
 "マップID","X座標(マップ位置)","Y座標(マップ位置)",
-0,10,6,<<!--DATANAME--!>>初期位置,
+0,16,7,<<!--DATANAME--!>>初期位置,
 0,0,0,<<!--DATANAME--!>>,
 0,0,0,<<!--DATANAME--!>>,
 0,0,0,<<!--DATANAME--!>>,
