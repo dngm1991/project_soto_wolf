@@ -1302,11 +1302,11 @@ OPTION_VAL_2=0
 COMMAND_NUM=2
 --
 WoditorEvCOMMAND_START
-[130][6,0]<0>(-1,13,8,12,0,0)()
+[130][6,0]<0>(-1,12,9,12,0,0)()
 [0][0,0]<0>()()
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■場所移動：主人公 ▲マップID12[エンディング] X:13 Y:8  [ﾄﾗﾝｼﾞｼｮﾝなし]
+■場所移動：主人公 ▲マップID12[エンディング] X:12 Y:9  [ﾄﾗﾝｼﾞｼｮﾝなし]
 ■
 [COMMAND_TEXT_END]
